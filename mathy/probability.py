@@ -35,21 +35,26 @@ def binomial_coefficient(n, k):
 
 def NChooseK(n, k):
     """
+
     generate all combinations of k in n in lexicographical order
 
-    :param n:
-    :param k:
-    :return:
+    [1,2,3] choose 2:
+    1,2
+    1,3
+    2,3
+
+    to lexicographically order, start with left, iterate the remainder
+
+    
+
     """
+
     pass
 
 
 def combinations(items, k):
     """
     delegate to the generator and use it to index into items
-    :param items:
-    :param k:
-    :return:
     """
 
     pass
