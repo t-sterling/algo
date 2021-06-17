@@ -1,0 +1,5 @@
+
+
+longest common subsequence
+
+longest increasing/decreasing sequence

@@ -1,0 +1,12 @@
+
+iterables/generators
+
+dunder method reference
+
+functool
+
+ternary operator
+
+None
+
+== vs is
